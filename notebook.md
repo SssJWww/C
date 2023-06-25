@@ -6,3 +6,6 @@ C++学习笔记
     .cpp -> .obj -> .exe 可执行文件
     库文件 链接到.obj
 2.C++
+    前面带#号的语句表示这是一个预处理指令，main函数默认返回0
+    std指的是标准模版库(standard template library)
+    cout指的是console out 控制台输出
